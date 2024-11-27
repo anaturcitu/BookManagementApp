@@ -24,3 +24,4 @@ Am creat o platforma interactiva pentru cititori, cu ajutorul careia utilizatori
 
 <br/>
 <h2>Diagrama bazei de date:</h2>
+<img src="baza_de_date.png"></img>
